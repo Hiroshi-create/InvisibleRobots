@@ -16,8 +16,8 @@ public class GameSceneDirector : MonoBehaviourPunCallbacks
     public const int TILE_Z = 9;
     const int PLAYER_MAX = 2;
 
-    private int unitsAttack = 1500;//334;  //<=
-    private int coreUnitsAttack = 1500;//400;  //<=
+    private int unitsAttack = 334;  //<=
+    private int coreUnitsAttack = 400;  //<=
     // //ユニットの数
     // private int numberOfUnits = 7;
 
